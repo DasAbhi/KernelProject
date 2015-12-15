@@ -1,0 +1,8 @@
+# This will be a location to establish working theories and design paths for our kernel.
+# If you have any question needing to be resolved, or think there is a piece of the kernel
+# missing, this is a catch all for thoughts.  Finalized thoughts and specific plans will
+# go in a separate location.
+
+# BEGIN!
+
+
